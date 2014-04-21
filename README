@@ -1,0 +1,3 @@
+A simple brainfuck interpeter written in Rust (0.6 ish)
+
+Unfortunatly has some subtle bugs in it.
